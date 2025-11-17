@@ -1,0 +1,9 @@
+todo\model\Task.class
+todo\servlet\ReadTaskServlet.class
+todo\model\Priority.class
+todo\servlet\EditTaskServlet.class
+todo\servlet\DeleteTaskServlet.class
+todo\servlet\CreateTaskServlet.class
+todo\servlet\HomeServlet.class
+todo\servlet\TaskListServlet.class
+todo\storage\TaskStorage.class
